@@ -47,3 +47,4 @@ Feel free to use it! ❤️
 10. [Dapr](https://dapr.io/)
 11. [Radius](https://radapp.io/)
 12. [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
+13. [eShop Reference Application](https://github.com/dotnet/eshop)
