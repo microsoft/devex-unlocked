@@ -32,3 +32,18 @@ Feel free to use it! ❤️
 3. [Quantifying GitHub Copilot’s impact on developer productivity and happiness](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 4. [GitHub Universe](https://githubuniverse.com/)
 5. [GitHub Copilot On-Demand Sessions](https://reg.githubuniverse.com/flow/github/universe24/attendee-portal/page/sessioncatalog?search.deliveryformat=1692799009854004CQlx&search.githubproduct=1681323318975006zEYH)
+
+## S03: MythBusters: is it true that modern apps make me more productive?
+
+1. [Big Ball of Mud](https://deviq.com/antipatterns/big-ball-of-mud)
+2. [What is Cloud Native?](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
+3. [The Twelve-Factor App](https://12factor.net/)
+4. [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
+5. [Feature Flags](https://martinfowler.com/articles/feature-toggles.html)
+6. [Azure App Configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview)
+7. [Semantic Versioning](https://semver.org/)
+8. [Release Flow: How We Do Branching on the VSTS Team - Azure DevOps Blog](https://devblogs.microsoft.com/devops/release-flow-how-we-do-branching-on-the-vsts-team/)
+9. [KEDA](https://keda.sh/)
+10. [Dapr](https://dapr.io/)
+11. [Radius](https://radapp.io/)
+12. [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
