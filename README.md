@@ -48,3 +48,16 @@ Feel free to use it! ❤️
 11. [Radius](https://radapp.io/)
 12. [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
 13. [eShop Reference Application](https://github.com/dotnet/eshop)
+
+## S05: Where is my CPU and memory? Using Azure Monitor Code Optimizations to identify hotspots.
+1. [Code Optimizations repo for testing and demo purposes.](https://github.com/jkalis-MS/CodeOptimizationsSampleApp/tree/main)
+2. [Code Optimization Overview.](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations)
+3. [Azure Well-Architected Framework.](https://learn.microsoft.com/en-us/azure/well-architected/)
+4. [Code Optimizations Extension.](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-vscode-extension)
+
+## S06: Developing applications in the cloud using GitHub Codespaces.
+
+
+
+
+
