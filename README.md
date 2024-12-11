@@ -57,6 +57,16 @@ Feel free to use it! ❤️
 
 ## S06: Developing applications in the cloud using GitHub Codespaces.
 
+## S07: Is Kubernetes hard? Here is the solution: AKS Automatic!
+1. [What is AKS Automatic?](https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic)
+2. [Features compartion between AKS Automatic and AKS Standard](https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic#aks-automatic-and-standard-feature-comparison)
+3. Deploy AKS Automatic:
+    * [Using Azure Portal](https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-automatic-deploy?pivots=azure-portal)
+    * [Using Azure CLI](https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-automatic-deploy?pivots=azure-cli)
+    * [Using Bicep Template](https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-automatic-deploy?pivots=bicep)
+5. [Get access to AKS Automatic](https://learn.microsoft.com/en-us/azure/aks/enable-authentication-microsoft-entra-id#access-your-enabled-cluster)
+6. [Demo App to test AKS Automatic](https://github.com/oaviles/hello_cloud-native)
+
 
 
 
