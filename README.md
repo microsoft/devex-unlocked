@@ -49,6 +49,12 @@ Feel free to use it! ❤️
 12. [.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
 13. [eShop Reference Application](https://github.com/dotnet/eshop)
 
+## S04: Move your workstation to the cloud with Microsoft Dev Box
+
+1. [Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/)
+2. [Pricing](https://azure.microsoft.com/en-us/pricing/details/dev-box)
+3. [Customizations](https://learn.microsoft.com/en-us/azure/dev-box/concept-what-are-team-customizations)
+
 ## S05: Where is my CPU and memory? Using Azure Monitor Code Optimizations to identify hotspots.
 1. [Code Optimizations repo for testing and demo purposes.](https://github.com/jkalis-MS/CodeOptimizationsSampleApp/tree/main)
 2. [Code Optimization Overview.](https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations)
