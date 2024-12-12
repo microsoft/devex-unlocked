@@ -73,6 +73,15 @@ Feel free to use it! ❤️
 5. [Get access to AKS Automatic](https://learn.microsoft.com/en-us/azure/aks/enable-authentication-microsoft-entra-id#access-your-enabled-cluster)
 6. [Demo App to test AKS Automatic](https://github.com/oaviles/hello_cloud-native)
 
+## S08: Don’t be pwned, use GitHub Advanced Security
+1. [GitHub Advanced Security - Code Scanning](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning)
+2. [GitHub Advanced Security - Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/introduction/about-secret-scanning)
+3. [CodeQL](https://github.com/github/codeql)
+4. [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+5. [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+6. [OWASP Mobile Top Ten](https://owasp.org/www-project-mobile-top-10/)
+7. [OWASP API Security](https://owasp.org/www-project-api-security/)
+8. [MITRE ATT&CK](https://attack.mitre.org/)
 
 
 
