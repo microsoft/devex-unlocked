@@ -65,7 +65,7 @@ Feel free to use it! ❤️
 1. [Github CodeSpaces Overview.](https://docs.github.com/en/codespaces/overview)
 2. [Understand the cost](https://github.com/pricing/calculator)
 3. [Github CodeSpaces Quickstart](https://docs.github.com/en/codespaces/getting-started/quickstart)
-4. [Github CodeSpaces Repo Demo] (https://github.com/github/copilot-codespaces-demo)
+4. [Github CodeSpaces Repo Demo](https://github.com/github/copilot-codespaces-demo)
    
 ## S07: Is Kubernetes hard? Here is the solution: AKS Automatic!
 1. [What is AKS Automatic?](https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic)
